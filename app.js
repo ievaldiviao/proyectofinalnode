@@ -6,7 +6,7 @@ import mongoose from 'mongoose'
 
 const app = express();
 //const uri = 'mongodb://localhost:27017/proyectofinalnode';
-const uri = 'mongodb+srv://root:jzEY60q70Tc2Fzui@cluster0.lfmrb.mongodb.net/proyectofinalnode?retryWrites=true&w=majority'
+const uri = 'mongodb+srv://root:jzEY60q70Tc2Fzui@cluster0.lfmrb.mongodb.net/proyectofinalnode?retryWrites=true&w=majority';
 
 const options = {
     useNewUrlParser: true,
